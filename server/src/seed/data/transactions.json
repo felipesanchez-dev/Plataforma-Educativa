@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "user_2v9ZPeD2KcJ2htBe22gE4UKoR1f",
+    "transactionId": "pi_1a2b3c4d5e6f7g8h9i0j1k2l",
+    "dateTime": "2025-04-01T10:30:00Z",
+    "courseId": "3a9f3d6c-c391-4b1c-9c3d-6c3f3d6c3f3d",
+    "paymentProvider": "stripe",
+    "amount": 1
+  }
+]
